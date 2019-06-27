@@ -105,6 +105,11 @@ The business objective was to determine if submetered energy data could provide 
 to install submeters. We’ll go over the results of the three objectives that were identified as having potential
 value to homeowners.
 
+##Plotly Dash Board Link
+https://plot.ly/organize/home/#/
+https://plot.ly/dashboard/rekharchandran:26/view
+
+
 
 
 
