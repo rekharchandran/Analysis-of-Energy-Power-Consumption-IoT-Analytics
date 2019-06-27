@@ -1,5 +1,7 @@
-###### Analysis-of-Energy-Power-Consumption
+# Analysis of Energy-Power-Consumption
 
+
+## Project Summary
 #This project summary is from the perspective of a data scientist working for an “Internet of Things” analytics 
 consulting firm whose client is a home developer. 
 #The client would like to know if insights can be found in the sub-metered energy consumption data set that could be used as an incentive to potential home buyers that may be interested in “smart home” technology.
